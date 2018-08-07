@@ -1,0 +1,1104 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"a",
+				"assets/css/bootstrap.css"
+			],
+			[
+				"col-md-off",
+				"col-md-offset-3 \tBootstrap 3 Class"
+			],
+			[
+				"conta",
+				"container \tBootstrap 3 Class"
+			],
+			[
+				"col",
+				"col-md-6 \tBootstrap 3 Class"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"btm",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"b",
+				"bootstrap/css/bootstrap.min.css"
+			],
+			[
+				"g",
+				"glyphicon-asterisk \tBootstrap 3 Class"
+			],
+			[
+				"alert",
+				"alert-dismissable \tBootstrap 3 Class"
+			],
+			[
+				"c",
+				"css/bootstrap.css"
+			],
+			[
+				"cs",
+				"css/bootstrap.css"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"btn-",
+				"btn-primary \tBootstrap 3 Class"
+			],
+			[
+				"form",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"css",
+				"css/bootstrap.min.css"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"border-ra",
+				"border-top-right-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"glyphcon",
+				"glyphicon-file \tBootstrap 3 Class"
+			],
+			[
+				"gly",
+				"glyphicon \tBootstrap 3 Class"
+			],
+			[
+				"gl",
+				"glyphicon \tBootstrap 3 Class"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"l",
+				"lname"
+			],
+			[
+				"cat",
+				"category_list"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"cate",
+				"category_list"
+			],
+			[
+				"ch",
+				"check3"
+			],
+			[
+				"che",
+				"check2"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text-c",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"ext",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"rela",
+				"relatedpost"
+			],
+			[
+				"GET",
+				"_GET"
+			],
+			[
+				"glyphicon-e",
+				"glyphicon-asterisk \tBootstrap 3 Class"
+			],
+			[
+				"glyphicon-r",
+				"glyphicon-fast-backward \tBootstrap 3 Class"
+			],
+			[
+				"tots",
+				"total_pages"
+			],
+			[
+				"tota",
+				"total_rows"
+			],
+			[
+				"sta",
+				"start_from"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"insert",
+				"mysql_insert_id"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"glyphicon-tar",
+				"glyphicon-trash \tBootstrap 3 Class"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"table",
+				"table-hover \tBootstrap 3 Class"
+			],
+			[
+				"table-",
+				"table-bordered \tBootstrap 3 Class"
+			],
+			[
+				"naem",
+				"Name"
+			],
+			[
+				"page",
+				"page-header \tBootstrap 3 Class"
+			],
+			[
+				"js",
+				"js/bootstrap.min.js"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"min",
+				"minlength"
+			],
+			[
+				"Pleae",
+				"Please"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"user_role"
+			],
+			[
+				"cona",
+				"contact_no"
+			],
+			[
+				"col-md",
+				"col-md-6 \tBootstrap 3 Class"
+			],
+			[
+				"panel",
+				"panel-body \tBootstrap 3 Class"
+			],
+			[
+				"col-",
+				"col-md-8 \tBootstrap 3 Class"
+			],
+			[
+				"ed",
+				"edit_id"
+			],
+			[
+				"fo",
+				"form_name"
+			],
+			[
+				"has",
+				"has-feedback \tBootstrap 3 Class"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"coun",
+				"countryName"
+			],
+			[
+				"li",
+				"limit"
+			],
+			[
+				"cou",
+				"countryName"
+			],
+			[
+				"ge",
+				"getExistingData"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"in",
+				"includes/connection.php"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"s",
+				"shortDesc"
+			],
+			[
+				"btn-s",
+				"btn-success \tBootstrap 3 Class"
+			],
+			[
+				"sh",
+				"shortDesc"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"j",
+				"js/jquery-3.3.1.min.js"
+			],
+			[
+				"mod",
+				"modal-content \tBootstrap 3 Class"
+			],
+			[
+				"col-md-of",
+				"col-md-offset-2 \tBootstrap 3 Class"
+			],
+			[
+				"includes",
+				"includes/functions.php"
+			],
+			[
+				"cli",
+				"client-email"
+			],
+			[
+				"client",
+				"client-notes"
+			],
+			[
+				"cl",
+				"client-email"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"m",
+				"multiple\tAttr"
+			],
+			[
+				"for",
+				"form-control \tBootstrap 3 Class"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"jss",
+				"JSS1"
+			],
+			[
+				"ho",
+				"form-horizontal \tBootstrap 3 Class"
+			],
+			[
+				"acti",
+				"active"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"le",
+				"least"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tex",
+				"text-info \tBootstrap 3 Class"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"ter",
+				"term"
+			],
+			[
+				"enter",
+				"Enter"
+			],
+			[
+				"spon",
+				"sponsor_address"
+			],
+			[
+				"spons",
+				"Sponsor"
+			],
+			[
+				"ps",
+				"passport"
+			],
+			[
+				"rel",
+				"religion"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"Re",
+				"Religion"
+			],
+			[
+				"sub",
+				"sub_class"
+			],
+			[
+				"Cl",
+				"Class"
+			],
+			[
+				"A",
+				"Academic"
+			],
+			[
+				"su",
+				"sub_class"
+			],
+			[
+				"btn",
+				"btn-block \tBootstrap 3 Class"
+			],
+			[
+				"tab",
+				"table-striped \tBootstrap 3 Class"
+			],
+			[
+				"bo",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/pages/about.blade.php",
+			"settings":
+			{
+				"buffer_size": 6110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n\nnamespace App;\n\nuse Illuminate\\Database\\Eloquent\\Model;\n\nclass Post extends Model\n{\n    //\n}\n",
+			"file": "app/Post.php",
+			"file_size": 100,
+			"file_write_time": 131780416414586432,
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nLaravel 5 Snippets\n------------------\n\n  Laravel 5 Snippets for Sublime Text\n  https://github.com/Lykegenes/laravel-5-snippets\n  \n  ********************************************************************************\n  \n  \n  Thank you for installing this package!\n  \n  Please have a look at the project's Readme for up-to-date instructions.\n  These snippets are consistent with the latest stable release of Laravel and its\n  documentation, but some particularities are explained in the Readme file.\n  \n  The home page of the project can be found here :\n  https://github.com/Lykegenes/laravel-5-snippets\n  \n  Improvements or suggestions? Contribute on GitHub!\n",
+			"settings":
+			{
+				"buffer_size": 706,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "blog.sublime-project",
+			"settings":
+			{
+				"buffer_size": 100,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2018_08_06_150721_create_posts_table.php",
+			"settings":
+			{
+				"buffer_size": 739,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/pages/services.blade.php",
+			"settings":
+			{
+				"buffer_size": 6313,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 688,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 290.0,
+		"history":
+		[
+			"help",
+			"cd\\ lsapp",
+			"cd\\",
+			"cd/",
+			"file",
+			"cls",
+			"clear",
+			"FuzzyFilePath cached 2412 files in C:/xampp/htdocs/e-ticket"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/c/xampp/htdocs/blog/folder",
+		"/C/xampp/htdocs/blog/resources/views/ffff",
+		"/C/xampp/htdocs/blog/routes/web.php",
+		"/C/xampp/htdocs/blog/resources/views/inc/navbar.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/pages/about.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/pages/services.blade.php",
+		"/C/xampp/htdocs/blog/resources/views/pages/contact.blade.php",
+		"/C/xampp/htdocs/blog/app/Http/Controllers/PageController.php",
+		"/C/xampp/htdocs/blog/resources/views/pages/index.blade.php",
+		"/C/xampp/htdocs/blog/app/Http/Controllers/PagesController.php",
+		"/C/xampp/htdocs/blog/resources/views/pages/services.php",
+		"/C/xampp/htdocs/blog/resources/views/pages/index.php",
+		"/C/xampp/htdocs/clientaddressbook/add.php",
+		"/C/xampp/htdocs/clientaddressbook/clients.php",
+		"/C/xampp/htdocs/clientaddressbook/index.php",
+		"/G/header.php",
+		"/C/xampp/htdocs/e-ticket/inc/header.php",
+		"/G/signin.php",
+		"/C/xampp/htdocs/e-ticket/vrify-ticket.php",
+		"/C/xampp/htdocs/e-ticket/signin.php",
+		"/C/xampp/htdocs/e-ticket/signup.php",
+		"/C/xampp/htdocs/e-ticket/index.php",
+		"/C/xampp/htdocs/e-ticket/change-password.php",
+		"/C/xampp/htdocs/e-ticket/board-a-trip.php",
+		"/C/xampp/htdocs/e-ticket/edit-profile.php",
+		"/C/xampp/htdocs/e-ticket/purchase-ticket.php",
+		"/C/xampp/htdocs/e-ticket/ticket-history.php",
+		"/C/xampp/htdocs/e-ticket/global_assets/js/demo_pages/invoice_archive.js",
+		"/C/xampp/htdocs/e-ticket/logout.php",
+		"/C/xampp/htdocs/e-ticket/inc/footer.php",
+		"/C/xampp/htdocs/e-ticket/global_assets/js/plugins/tables/datatables/datatables.min.js",
+		"/C/xampp/htdocs/e-ticket/global_assets/js/demo_pages/datatables_advanced.js",
+		"/C/xampp/htdocs/e-ticket/global_assets/js/demo_pages/datatables_sorting.js",
+		"/C/xampp/htdocs/e-ticket/purchase-ticket",
+		"/C/xampp/htdocs/e-ticket/sign-in.pphp",
+		"/C/xampp/htdocs/e-ticket/index.html",
+		"/C/xampp/htdocs/e-ticket/login.php",
+		"/C/xampp/htdocs/foxit/index.html",
+		"/C/xampp/htdocs/foxit/regsiter.html",
+		"/C/Users/emma/Documents/Websites/www.web.io/css/login.html",
+		"/C/Users/emma/Desktop/yoast/images/logo.svg",
+		"/C/Users/emma/Desktop/yoast/images/placeholder.jpg",
+		"/C/Users/emma/Documents/Websites/www.web.io/html/register.html",
+		"/C/xampp/htdocs/crud/insert.php",
+		"/C/xampp/htdocs/crud/config.php",
+		"/C/Users/emma/Desktop/html/index",
+		"/C/xampp/htdocs/lsapp/app/Http/Controllers/Auth/index.hml",
+		"/C/xampp/htdocs/marketone/wp-config-sample.php",
+		"/C/xampp/htdocs/lsapp/app/Http/Controllers/PostsController.php",
+		"/C/xampp/htdocs/lsapp/resources/views/posts/index.blade.php",
+		"/C/xampp/htdocs/lsapp/app/Post.php",
+		"/C/Users/emma/Documents/Websites/www.marketone.dev.cc/wp-config-sample.php",
+		"/C/xampp/htdocs/firenze/inc/header.php",
+		"/C/xampp/htdocs/firenze/helpers/format.php",
+		"/C/xampp/htdocs/firenze/images/post/1.jpg",
+		"/C/xampp/htdocs/firenze/images/post/2.jpg",
+		"/C/xampp/htdocs/firenze/images/post/3.jpg",
+		"/C/xampp/htdocs/firenze/images/post/4.jpg",
+		"/C/xampp/htdocs/firenze/images/post/5.jpg",
+		"/C/xampp/htdocs/firenze/inc/connection.php",
+		"/C/xampp/htdocs/firenze/contact.php",
+		"/C/xampp/htdocs/firenze/about.php",
+		"/C/xampp/htdocs/firenze/post.php",
+		"/C/xampp/htdocs/firenze/index.php",
+		"/C/xampp/htdocs/firenze/404.php",
+		"/C/xampp/htdocs/firenze/inc/footer.php",
+		"/C/xampp/htdocs/firenze/advertisement.html",
+		"/C/xampp/htdocs/crud/delete.php",
+		"/C/xampp/htdocs/lsapp/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/lsapp/.env",
+		"/C/xampp/htdocs/lsapp/database/migrations/2018_06_02_232311_create_posts_table.php",
+		"/C/xampp/htdocs/lsapp/app/Http/Controllers/PostController.php",
+		"/C/xampp/htdocs/craigs/resources/views/pages/index.blade.php",
+		"/C/xampp/htdocs/craigs/resources/views/inc/navbar.blade.php",
+		"/C/xampp/htdocs/craigs/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/craigs/resources/views/pages/users/login.blade.php",
+		"/C/xampp/htdocs/craigs/resources/views/pages/users/sold-items.blade.php",
+		"/C/xampp/htdocs/craigs/resources/views/pages/users/profile.blade.php",
+		"/C/xampp/htdocs/craigs/resources/views/pages/users/bookmarks.blade.php",
+		"/C/xampp/htdocs/craigs/resources/views/pages/users/ads.blade.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/wamp64/www/ajaxcrud/index.html",
+		"/C/wamp64/www/ajaxcrud/js/jquery.js",
+		"/C/wamp64/www/clientaddressbook/js/jquery.js",
+		"/D/Documents/www/ClientAddressBook/add.php",
+		"/C/wamp64/www/clientaddressbook/includes/connection.php",
+		"/C/wamp64/www/clientaddressbook/includes/footer.php",
+		"/C/wamp64/www/clientaddressbook/includes/header.php",
+		"/C/wamp64/www/lotanna/auth/includes/header.php",
+		"/C/wamp64/www/lotanna/auth/index.php",
+		"/C/wamp64/www/lotanna/auth/submissions.php",
+		"/C/wamp64/www/lotanna/includes/header.php",
+		"/C/wamp64/www/lotanna/index.php",
+		"/C/wamp64/www/lotanna/includes/footer.php",
+		"/C/wamp64/www/lotanna/grades.php",
+		"/C/wamp64/www/lotanna/submissions.php",
+		"/C/wamp64/www/lotanna/signin.php",
+		"/C/wamp64/www/lotanna/submission.php",
+		"/C/wamp64/www/designcrazed/super-admin/includes/footer.php",
+		"/C/wamp64/www/designcrazed/enroll-new-student.php",
+		"/C/wamp64/www/designcrazed/test.php",
+		"/C/wamp64/www/designcrazed/manage-users.php",
+		"/C/wamp64/www/designcrazed/assets/js/pages/be_tables_datatables.js",
+		"/C/wamp64/www/designcrazed/status-update.php",
+		"/C/wamp64/www/designcrazed/includes/footer.php",
+		"/C/wamp64/www/designcrazed/change-password.php",
+		"/C/wamp64/www/designcrazed/add-admin.php",
+		"/C/wamp64/www/designcrazed/super-admin/index.html",
+		"/C/wamp64/www/designcrazed/includes/header.php",
+		"/C/wamp64/www/designcrazed/record-attendance.php",
+		"/C/wamp64/www/designcrazed/view-student-record.php",
+		"/C/wamp64/www/designcrazed/customized-message.php",
+		"/C/wamp64/www/designcrazed/result-notification.php",
+		"/C/wamp64/www/designcrazed/assets/js/plugins/datatables/jquery.dataTables.js",
+		"/C/wamp64/www/designcrazed/assets/js/plugins/datatables/dataTables.bootstrap4.js",
+		"/C/wamp64/www/designcrazed/assets/js/plugins/jquery-validation/jquery.validate.js",
+		"/C/wamp64/www/designcrazed/assets/js/plugins/jquery-validation/additional-methods.js",
+		"/C/wamp64/www/designcrazed/assets/img/photos/bg_hero_landing.jpg",
+		"/C/wamp64/www/designcrazed/search-student-record.php",
+		"/C/wamp64/www/designcrazed/assets/js/pages/be_forms_wizard.js",
+		"/C/wamp64/www/designcrazed/new-assignment.php",
+		"/C/wamp64/www/designcrazed/assets/js/pages/be_forms_validation.js",
+		"/C/wamp64/www/designcrazed/assets/js/plugins/sweetalert2/sweetalert2.js",
+		"/C/wamp64/www/designcrazed/assets/js/plugins/sweetalert2/sweetalert2.common.js",
+		"/C/wamp64/www/designcrazed/assets/js/plugins/jquery-tags-input/jquery.tagsinput.min.js",
+		"/C/wamp64/www/designcrazed/index.php",
+		"/C/wamp64/www/designcrazed/signin.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 175.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img",
+			"img/",
+			"vendors/",
+			"css/",
+			"css"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{{asset('frontend')}}/img/",
+			"{{asset('frontend')}}/vendors/",
+			"{{asset('frontend')}}/css/",
+			"{{asset(frontend)}}/css/",
+			"{{asset(frontend)}}/css"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/pages/about.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5811,
+								5811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4653.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Post.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								660
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"history_list_is_closing": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blog.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "database/migrations/2018_08_06_150721_create_posts_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/pages/services.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6053,
+								6056
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": ".env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								250
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 99.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
